@@ -13,10 +13,7 @@
        If you have stumbled across this page: Welcome!
     </p>
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-      Since you're already here, go ahead and check out some of my poetry and short stories!
-    </p>
-    <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-      If any of you are curious about the development of this blog, you can follow its progress on my Github profile, which is linked in the sidebar of this page.
+      Since you're already here, go ahead and check out some of my poetry and short stories! If any of you are curious about the development of this blog, you can follow its progress on my Github profile, which is linked in the sidebar of this page.
     </p>
   </div>
 </template>
