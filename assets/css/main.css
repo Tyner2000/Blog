@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nuxt-link-exact-active {
+  @apply text-blue-500;
+}
+
+@media screen and (min-width: 768px) {
+  footer {
+    position: relative;
+    bottom: 0;
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+}
