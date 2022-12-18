@@ -15,7 +15,7 @@
           </NuxtLink>
         </div>
         <div>
-          <p class="prose text-gray-500 max-w-none dark:text-gray-400 mb-3">
+          <p class="prose text-justify text-gray-500 max-w-none dark:text-gray-400 mb-3">
             {{ shortDescription }}
           </p>
         </div>
