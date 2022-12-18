@@ -11,7 +11,7 @@ const siteMetaInfo = {
   language: "en-us",
   theme: "system", // system, dark or light
   siteUrl: "https://tyner.dev",
-  siteRepo: "#",
+  siteRepo: "https://github.com/Tyner2000/NuxtJS-Blog",
   siteLogo: "../assets/author.png",
   image: "~/assets/author.png",
   socialBanner: "/static/images/twitter-card.png",
