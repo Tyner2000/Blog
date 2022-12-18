@@ -1,6 +1,6 @@
 ---
-title: Trying to Keep Pace. 
-tags: Walks in Mayer's Park
+title: Trying to Keep Pace.
+tags: Walks in Meyer's Park
 order: 1
 ---
 
