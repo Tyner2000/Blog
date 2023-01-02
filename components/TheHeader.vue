@@ -15,7 +15,7 @@
         <li v-for="item in navLinks" :key="item.path">
           <NuxtLink
             :to="item.path"
-            class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold lg:text-lg md:text-base sm:text-sm"
+            class="title block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold lg:text-xxl md:text-xl sm:text-base"
             >{{ item.name }}</NuxtLink
           >
         </li>
