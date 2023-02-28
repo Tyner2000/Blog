@@ -36,7 +36,7 @@
       </div>
       <div class="my-2 text-gray-600 flex dark:text-blue-200">
         <Github />
-        <a :href="siteMetadata.github"> {{ siteMetadata.githubUser }}</a>
+        <a :href="{siteMetadata.github}"> {{ siteMetadata.githubUser }}</a>
       </div>
     </div>
   </div>
