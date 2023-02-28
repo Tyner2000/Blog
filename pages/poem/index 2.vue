@@ -5,7 +5,7 @@
         Poetry
       </h1>
       <p class="text-lg text-slate-700 dark:text-slate-400">
-        Rhyming words! (Read with Rhythm.)
+        Rhyming words!
       </p>
     </header>
     <main class="relative mb-auto">
