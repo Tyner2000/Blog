@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "nuxt-blog",
+    title: "Collected Temporary Works.",
     htmlAttrs: {
       lang: "en",
     },
