@@ -22,7 +22,7 @@ const siteMetaInfo = {
   twitter_user: "tynerroycroft",
   stackoverflow: "#",
   youtube: "#",
-  linkedin: "#",
+  linkedin: "https://www.linkedin.com/in/tyner2000",
 };
 
 export default siteMetaInfo;
