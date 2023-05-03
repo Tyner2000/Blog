@@ -1,5 +1,5 @@
 const siteMetaInfo = {
-  title: "Collected Temporary Works.",
+  title: "Collected Works.",
   author: "Tyner Roycroft",
   author_image: "/author.png",
   position: "Generalist.",
