@@ -1,6 +1,6 @@
 ---
 tags: loss
-title: The Lost Sight.
+title: the lost sight.
 description: A man once walked a lonely road, never alone.  
 ---
 

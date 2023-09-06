@@ -1,6 +1,6 @@
 ---
 tags: introspection
-title: The Heavy Thoughts
+title: The heavy thoughts.
 description: Humor -- dry. 
 ---
 

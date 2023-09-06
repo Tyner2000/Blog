@@ -1,6 +1,6 @@
 ---
 tags: observation
-title: A Goose
+title: The goose.
 description: Many geese on waters blue. 
 ---
 

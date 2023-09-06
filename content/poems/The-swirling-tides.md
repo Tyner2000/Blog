@@ -1,6 +1,6 @@
 ---
 tags: observation
-title: The Swirling Tides
+title: The swirling tides.
 description: Seldom gray the swirling tides. 
 ---
 
