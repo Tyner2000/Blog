@@ -3,6 +3,6 @@
     "links": [{
         "rel": "self",
         "type": "application/activity+json",
-        "href": "https://mastodon.tyner.dev/tyner"
+        "href": "https://mastodon.tyner.dev/tyner.json"
     }]
 }
