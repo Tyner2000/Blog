@@ -12,47 +12,26 @@
   # This sample publishes the directory located at the absolute 
   # path "root/project/build-output"
 
-  #publish = "dist/"
+  publish = "public/"
 
   # Default build command.
-  command = "echo 'default context'"
-
-[[plugins]]
-  # Installs the Lighthouse Build Plugin for all deploy contexts
-  #package = "@netlify/plugin-lighthouse"
+  command = ""
 
 # Production context: all deploys from the Production branch
 # set in your site’s Branches settings in the UI will inherit
 # these settings. You can define environment variables
 # here but we recommend using the Netlify UI for sensitive
 # values to keep them out of your source repository.
+
 [context.production]
-  publish = "dist/"
+  publish = "public/"
   command = "nuxt generate"
-  #environment = { NODE_VERSION = "14.15.3" }
-
-# Deploy Preview context: all deploys generated from
-# a pull/merge request will inherit these settings.
-[context.deploy-preview]
-  publish = "dist/"
-
-# Branch Deploy context: all deploys that are not from
-# a pull/merge request or from the Production branch
-# will inherit these settings.
-[context.branch-deploy]
-  command = "echo branch"
-[context.branch-deploy.environment]
-  NODE_ENV = "development"
+  environment = { NODE_VERSION = "14.15.3" }
 
 # Specific branch context: all deploys from
 # this specific branch will inherit these settings.
+
 [context.mastodon] # “staging” is a branch name
   command = ""
-  base = "/"
-
-# For contexts of branches with special characters,
-# enclose the branch name with quotes.
-[context."feat/branch"]
-  #command = "echo 'special branch'"
-  #base = "branch"
+  #base = "/"
 
