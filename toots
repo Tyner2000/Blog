@@ -1,32 +1,32 @@
 {
-    "id": "https://mastodon.jgarr.net/toots",
+    "id": "https://mastodon.tyner.dev/toots",
     "type": "OrderedCollectionPage",
-    "next": "https://mastodon.jgarr.net/toots_more",
-    "prev": "https://mastodon.jgarr.net/toots_less",
-    "partOf": "https://mastodon.jgarr.net/toots",
+    "next": "https://mastodon.tyner.dev/toots_more",
+    "prev": "https://mastodon.tyner.dev/toots_less",
+    "partOf": "https://mastodon.tyner.dev/toots",
     "orderedItems": [{
-        "id": "https://mastodon.jgarr.net/posts/1",
+        "id": "https://mastodon.tyner.dev/posts/1",
         "type": "Create",
-        "actor": "https://mastodon.jgarr.net/justin",
+        "actor": "https://mastodon.tyner.dev/justin",
         "published": "2022-04-26T00:11:17Z",
         "to": [
             "https://www.w3.org/ns/activitystreams#Public"
         ],
         "object": {
-            "id": "https://mastodon.jgarr.net/posts/1",
+            "id": "https://mastodon.tyner.dev/posts/1",
             "type": "Note",
             "summary": null,
             "inReplyTo": null,
             "published": "2022-04-26T00:11:17Z",
-            "url": "https://mastodon.jgarr.net/posts/1",
-            "attributedTo": "https://mastodon.jgarr.net/justin",
+            "url": "https://mastodon.tyner.dev/posts/1",
+            "attributedTo": "https://mastodon.tyner.dev/justin",
             "to": [
                 "https://www.w3.org/ns/activitystreams#Public"
             ],
             "sensitive": false,
-            "atomUri": "https://mastodon.jgarr.net/posts/1",
+            "atomUri": "https://mastodon.tyner.dev/posts/1",
             "inReplyToAtomUri": null,
-            "conversation": "tag:mastodon.jgarr.net,2022-04-26:objectId=288755344:objectType=Conversation",
+            "conversation": "tag:mastodon.tyner.dev,2022-04-26:objectId=288755344:objectType=Conversation",
             "content": "<p>It has been an interesting day.</p>",
             "contentMap": {
                 "en": "<p>It has been an interesting day.</p>"
@@ -34,12 +34,12 @@
             "attachment": [],
             "tag": [],
             "replies": {
-                "id": "https://mastodon.jgarr.net/posts/1_replies",
+                "id": "https://mastodon.tyner.dev/posts/1_replies",
                 "type": "Collection",
                 "first": {
                     "type": "CollectionPage",
-                    "next": "https://mastodon.jgarr.net/posts/1_replies_more",
-                    "partOf": "https://mastodon.jgarr.net/posts/1_replies",
+                    "next": "https://mastodon.tyner.dev/posts/1_replies_more",
+                    "partOf": "https://mastodon.tyner.dev/posts/1_replies",
                     "items": []
                 }
             }

@@ -1,11 +1,11 @@
 {
   "@context": "https://www.w3.org/ns/activitystreams",
-  "id": "https://mastodon.jgarr.net/posts/1_replies",
+  "id": "https://mastodon.tyner.dev/posts/1_replies",
   "type": "Collection",
   "first": {
-    "id": "https://mastodon.jgarr.net/posts/1_replies",
+    "id": "https://mastodon.tyner.dev/posts/1_replies",
     "type": "CollectionPage",
-    "next": "https://mastodon.jgarr.net/posts/1_replies_more",
-    "partOf": "https://mastodon.jgarr.net/posts/1_replies",
+    "next": "https://mastodon.tyner.dev/posts/1_replies_more",
+    "partOf": "https://mastodon.tyner.dev/posts/1_replies",
     "items": []
   }
