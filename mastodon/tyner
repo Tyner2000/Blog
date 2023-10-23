@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        "https://w3id.org/security/v1"
+    ],
+    "id": "https://mastodon.tyner.dev/tyner",
+    "type": "Person",
+    "following": "https://mastodon.tyner.dev/following",
+    "followers": "https://mastodon.tyner.dev/followers",
+    "featured": "https://mastodon.tyner.dev/featured",
+    "inbox": "https://mastodon.tyner.dev/inbox",
+    "outbox": "https://mastodon.tyner.dev/outbox",
+    "preferredUsername": "renyt",
+    "name": "Tyner Roycroft",
+    "summary": "probably not.",
+    "url": "https://tyner.dev",
+    "manuallyApprovesFollowers": true,
+    "discoverable": true,
+    "published": "2000-01-01T00:00:00Z",
+
+    "icon": {
+        "type": "Image",
+        "mediaType": "image/jpeg",
+        "url": "https://mastodon.tyner.dev/icon.jpg"
+    },
+    "image": {
+        "type": "Image",
+        "mediaType": "image/jpeg",
+        "url": "https://mastodon.tyner.dev/image.png"
+    }
+}
