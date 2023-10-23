@@ -1,0 +1,7 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://mastodon.jgarr.net/users/posts/1_replies_more",
+    "type": "CollectionPage",
+    "partOf": "https://mastodon.jgarr.net/posts/1_replies",
+    "items": []
+}

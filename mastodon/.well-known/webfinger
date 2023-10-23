@@ -1,0 +1,8 @@
+{
+    "subject": "acct:justin@mastodon.jgarr.net",
+    "links": [{
+        "rel": "self",
+        "type": "application/activity+json",
+        "href": "https://mastodon.jgarr.net/justin"
+    }]
+}

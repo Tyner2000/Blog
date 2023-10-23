@@ -1,0 +1,47 @@
+{
+  "@context": [                                                                                                                                   
+    "https://www.w3.org/ns/activitystreams",                                                                                                      
+    {                                                                                                                                             
+      "ostatus": "http://ostatus.org#",                                                                                                           
+      "atomUri": "ostatus:atomUri",                                                                                                               
+      "inReplyToAtomUri": "ostatus:inReplyToAtomUri",                                                                                             
+      "conversation": "ostatus:conversation",                                                                                                     
+      "sensitive": "as:sensitive",                                                                                                                
+      "toot": "http://joinmastodon.org/ns#",                                                                                                      
+      "votersCount": "toot:votersCount"                                                                                                           
+    }
+  ],
+    "id": "https://mastodon.jgarr.net/posts/1",
+    "type": "Note",
+    "summary": null,
+    "inReplyTo": null,
+    "published": "2022-04-26T00:11:17Z",
+    "url": "https://mastodon.jgarr.net/posts/1",
+    "attributedTo": "https://mastodon.jgarr.net/justin",
+    "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "cc": [
+        "https://mastodon.jgarr.net/followers"
+    ],
+    "sensitive": false,
+    "atomUri": "https://mastodon.jgarr.net/posts/1",
+    "inReplyToAtomUri": null,
+    "conversation": "tag:mastodon.jgarr.net,2022-04-26:objectId=288755344:objectType=Conversation",
+    "content": "<p>It has been an interesting day.</p>",
+    "contentMap": {
+        "en": "<p>It has been an interesting day.</p>"
+    },
+    "attachment": [],
+    "tag": [],
+    "replies": {
+        "id": "https://mastodon.jgarr.net/posts/1_replies",
+        "type": "Collection",
+        "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.jgarr.net/posts/1_replies_more",
+            "partOf": "https://mastodon.jgarr.net/posts/1_replies",
+            "items": []
+        }
+    }
+}
