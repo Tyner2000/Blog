@@ -1,8 +1,8 @@
 {
-    "subject": "acct:justin@mastodon.jgarr.net",
+    "subject": "acct:renyt@mastodon.tyner.dev",
     "links": [{
         "rel": "self",
         "type": "application/activity+json",
-        "href": "https://mastodon.jgarr.net/justin"
+        "href": "https://mastodon.tyner.dev/tyner"
     }]
 }
