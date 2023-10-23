@@ -1,7 +1,0 @@
-{                                                                                                                                                                                                                                                                                           
-  "@context": "https://www.w3.org/ns/activitystreams",
-  "id": "https://mastodon.tyner.dev/outbox",
-  "type": "OrderedCollection",
-  "totalItems": 1,
-  "first": "https://mastodon.tyner.dev/toots"                                                                                                                                                                                                                   
-}
